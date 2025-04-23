@@ -1,6 +1,6 @@
 {
-    "data": {
-      "item": {
+    "data": [
+      {
         "kamos_intro_title": "Project Kamos: AI時代の思考を体系化するフレームワークとツール",
         "kamos_intro_description": "Project Kamosは、複雑化する現代において、AIとの高度な連携を前提とした新しい思考・分析・創造のプロセスを実現するために開発されました。\n私たちは、単なる思いつきや断片的な情報整理に留まらない、**構造的で再現性のある思考**を支援する仕組みが必要だと考えました。そして、そのプロセスにAIを効果的に組み込むことで、人間の知性とAIの能力を最大限に引き出すことを目指しています。",
         "kamos_intro_core_elements_title": "その中核を成すのが、以下の要素です:",
@@ -24,6 +24,6 @@
         "kamos_intro_value_proposition_item_4": "**柔軟性と拡張性:** JSONベースのConfig Kitにより、目的に応じたカスタマイズや拡張が容易です。",
         "kamos_intro_conclusion": "私たちは、この「Kamos Framework」と「Config Kit」という「思考の道具」を通じて、AI時代の新しい知の探求と価値創造のあり方を提案します。"
       }
-    }
+    ]
   }
   
